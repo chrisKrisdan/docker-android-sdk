@@ -65,7 +65,7 @@
 #####    symbolic links to make the Android SDK executable from anywhere on the image and
 #####    test it's working.
 
-#####    If it is successful the following text will be printed to the screan:
+#####    If it is successful the following text will be printed to the terminal screan:
 
   Installed packages:
   Path                        | Version | Description                    | Location                    
