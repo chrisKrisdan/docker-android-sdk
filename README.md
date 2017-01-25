@@ -33,7 +33,10 @@
 #### STEPS to Install Android Command Line (Terminal) tools SECURELY:
 
 ##### 1) Download the Android Terminal (Command Line) tools from from:
-#####    https://dl.google.com/android/repository/tools_rXX.X.X-linux.zip
+#####    https://developer.android.com/studio/index.html
+
+#####    curl -O https://dl.google.com/android/repository/tools_rXX.X.X-linux.zip
+
 #####    Current version (January 25 2017) tools_r25.2.3-linux.zip
 
 ##### 2) Verify the integrity of the download, uncompress the download, Virus check it.
