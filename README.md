@@ -1,6 +1,6 @@
 # This Image creates an Ubuntu 16.04 Image with Android SDK Installed
 
-## FOR UPTIGHT SECURITY AND TO FOLLOW CICD BEST PRACTICES ##
+## FOR UPTIGHT SECURITY AND TO FOLLOW CICD BEST PRACTICES FOLLOW THE STEPS BELOW ##
 
 #### STEPS to Install Oracle JDK 8 manually:
 
